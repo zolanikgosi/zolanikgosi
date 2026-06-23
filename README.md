@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Zolani 
 
-<!--
-**zolanikgosi/zolanikgosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCom Information Sciences Graduate
 
-Here are some ideas to get you started:
+📚 Currently completing my Bachelor of Computer and Information Sciences (Honours) at IIE MSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Junior Software Developer
+
+📱 Android Development with Kotlin
+
+🌐 Web Development with ASP.NET Core MVC, PHP and JavaScript
+
+🗄️ Database Development with MySQL, Firebase and Supabase
+
+## Featured Projects
+
+### 🍽️ Quick Chow Restaurant Finder
+Android application developed using Kotlin, Firebase and Google Maps SDK.
+
+### 📋 Contract Monthly Claim System
+Web-based claims platform developed using ASP.NET Core MVC and SQL.
+
+### 🛒 Pastimes Thrift Store
+Full-stack e-commerce platform developed using PHP and MySQL.
+
+### 🍸 DesignTV Bar Platform
+Web management platform developed using HTML, CSS, JavaScript and Supabase.
+
+### 📖 Recipe Manager
+Desktop application developed using C# and WPF.
+
+## Technologies
+
+Kotlin • C# • ASP.NET Core MVC • PHP • JavaScript • Firebase • MySQL • Supabase • Git • GitHub • REST APIs
+
+## Current Focus
+
+Building Android, web and database-driven applications while continuing to develop my software engineering skills through practical projects and continuous learning.
